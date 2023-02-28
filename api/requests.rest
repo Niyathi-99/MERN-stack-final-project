@@ -1,0 +1,22 @@
+GET http://localhost:3001/todos
+
+###
+
+POST http://localhost:3001/todo/new 
+Content-Type: application/json
+
+{
+"text": "all Time"
+}
+
+###
+
+DELETE http://localhost:3001/todos/delete/63fa0a8deee2c4478fbbea4b
+
+###
+
+GET http://localhost:3001/todos/complete/63fa1f391f5978f97948f9d6
+
+###
+
+PUT http://localhost:3001/todos/localhost:3001/
