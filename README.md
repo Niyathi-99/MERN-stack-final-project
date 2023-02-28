@@ -1,2 +1,2 @@
 # MERN-stack-final-project
-![Untitled](https://user-images.githubusercontent.com/120326023/221770589-a22e4e74-3b4e-4c4d-9800-e7f26de38336.jpg)
+![Mern Project](https://user-images.githubusercontent.com/120326023/221781048-022e15c1-f245-428e-ae5f-8915aadee734.jpg)
